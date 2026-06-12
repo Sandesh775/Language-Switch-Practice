@@ -8,3 +8,8 @@ const country = "Nepal";// it is constant !
 // boolean !
 let isActive = true; 
 isActive = false;
+
+
+let a = "manjil";
+let b = 1;
+

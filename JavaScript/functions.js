@@ -1,3 +1,4 @@
+// Functions Are Values
 // now i need to recall what function were look like in C
 // Regular function 
 let name = prompt("Whoever you are enter you name here : ");
