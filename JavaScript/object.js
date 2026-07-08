@@ -38,10 +38,10 @@ const car = {
    }
 }
 car.brand = "Rolls Royce";
-
+car.drive();
 const x = function(){};
 
-console.log("z is "+typeof x);
+console.log("x is "+typeof x);
 const z = {
     function(){}
 }

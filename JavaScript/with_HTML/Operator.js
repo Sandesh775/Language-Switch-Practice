@@ -1,12 +1,5 @@
-<script>
-    let a = 50;
-    let b = 5;
 
-console.log(a +"  "+ b);
-console.log(a + b);
-console.log(a - b);
-console.log(a * b);
-console.log(a / b);
-console.log(a % b);
-
-</script>
+    document.getElementById("add").innerHTML = 4 + 3;
+    document.getElementById("sub").innerHTML = 4 - 3;
+    document.getElementById("div").innerHTML = 4 / 3;
+    document.getElementById("mult").innerHTML = 4 * 3;
